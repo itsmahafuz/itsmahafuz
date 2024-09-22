@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsmahafuz" alt="itsmahafuz" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/itsmahafuz" target="blank"><img src="https://img.shields.io/twitter/follow/itsmahafuz?logo=twitter&style=for-the-badge" alt="itsmahafuz" /></a> </p>
-
 - 🌱 I’m currently learning **C++, Python,Algorithms.**
 
 - 💬 Ask me about **C++, Python,Algorithms.**
